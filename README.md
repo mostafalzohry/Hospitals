@@ -1,4 +1,4 @@
-# 🛏️ Beds
+# 🛏️ Hospitals
 
 A modern web application built with **Vite**, **React**, and **TypeScript**.
 
@@ -14,7 +14,7 @@ To run the project locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/mostafalzohry/Beds.git
+git clone https://github.com/mostafalzohry/Hospitals.git
 
 # 2. Navigate to the project directory
 cd Beds
